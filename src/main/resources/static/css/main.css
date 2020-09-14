@@ -1,0 +1,32 @@
+.h2_for_css {
+    text-align: center;
+}
+.user_css{
+    text-align: center;
+    font-weight: bold;
+}
+
+.add-content {
+    padding: 20px 40px 50px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.add-title {
+    margin-top: 30px;
+}
+
+.add-root {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 30px;
+    align-items: flex-end;
+}
+
+.add-form-btn {
+    display: table;
+    margin: 30px auto 0;
+}
+#pagination {
+    text-align: center;
+}
